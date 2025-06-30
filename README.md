@@ -1,2 +1,2 @@
-# GoldMetalProject5
+# GoldMetal-Practice5
 GoldMetalProject Practice5
